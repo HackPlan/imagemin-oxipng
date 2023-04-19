@@ -12,7 +12,8 @@
 	},
 	"files": [
 		"index.js",
-		"index.d.ts"
+		"index.d.ts",
+		"oxipng-bin"
 	],
 	"keywords": [
 		"compress",
